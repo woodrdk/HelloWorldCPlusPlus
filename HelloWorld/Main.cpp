@@ -12,8 +12,8 @@ int main(){
 	
 	cout << str << endl;
 	cout << rob << endl;
-	cout << ending << endl;
-	cout << endl;
+	cout << ending << endl << endl;
+	
 	system("pause");
 	return 0;
 }
