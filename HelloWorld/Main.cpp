@@ -10,9 +10,9 @@ int main(){
 	string rob = "This is Rob's first C++ program!";
 	string ending = "Exciting Huh?";
 	
-	cout << str << endl;
-	cout << rob << endl;
-	cout << ending << endl << endl;
+	cout << str << endl
+	 << rob << endl
+	 << ending << endl << endl;
 	
 	system("pause");
 	return 0;
